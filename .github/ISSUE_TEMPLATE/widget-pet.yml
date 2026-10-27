@@ -1,0 +1,21 @@
+name: Widget Pet
+description: A question, problem or idea about Widget Pet
+title: "[Widget Pet] "
+labels: ["widget-pet"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, or what would you like?
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: iPhone model and iOS version
+      placeholder: iPhone 15, iOS 26.1
+  - type: input
+    id: version
+    attributes:
+      label: Widget Pet version (bottom of Settings)
+      placeholder: "1.0"

@@ -1,0 +1,5 @@
+title: Gorjan Shukov's apps
+description: Support pages and privacy policies for my App Store apps.
+theme: jekyll-theme-cayman
+exclude:
+  - README.md
